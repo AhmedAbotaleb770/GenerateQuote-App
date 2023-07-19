@@ -1,0 +1,14 @@
+:root{
+    --font-primary: Impact;
+    --color-beige:beige;
+}
+.container{
+    background-color: var(--color-beige);
+}
+.quote h1 {
+    font-size: 80px;
+    font-family: var(--font-primary);
+}
+.quote p{
+    font-size: 30px;
+}
